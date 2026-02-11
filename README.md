@@ -18,17 +18,14 @@ Personal repo documenting workshops, bootcamps, and learning events I've attende
 **Tools Learned**: 12+ AI tools (Perplexity, Claude, NotebookLM, etc.)  
 **[Full Notes → Generative-AI-Workshop](Generative-AI-Workshop/README.md)**
 
-```
-> **Add more workshops here as you attend them!**  
-> Format: `[Workshop Name](folder/README.md)` with date, key learnings, tools.
+
 
 ## 🚀 Quick Stats
-```
-Total Workshops: 1
-AI Tools Mastered: 12+
-Frameworks: AIY
-Skills: Prompt Engineering, Research, Productivity, Creativity
-```
+- Total Workshops: 1
+- AI Tools Mastered: 12+
+- Frameworks: AIY
+- Skills: Prompt Engineering, Research, Productivity, Creativity
+
 
 ## 📈 Next Goals
 - [ ] Add 2 more workshops this month
