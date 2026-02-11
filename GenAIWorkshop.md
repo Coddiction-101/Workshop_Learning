@@ -1,4 +1,4 @@
-```markdown
+
 # 💡 Generative AI Workshop Resources
 
 **Mentored by Vaibhav Sisinty**  
@@ -95,7 +95,3 @@ Five buckets to leverage AI:
 3. **Slides**: Gemini Canvas for C-suite presentation from doc.
 
 **Coffee Doc**: [Google Doc](https://docs.google.com/document/d/1OaGe2ADkkEw99w3hTbN0UAFVdxciHJ6eRyNFjq3Z0EA/edit?tab=t.0#heading=h.x2grbvj8jgr)
-
-## 🚀 Quick Start
-Fork this repo, track your AI experiments, and share progress!
-```
